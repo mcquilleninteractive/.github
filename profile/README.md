@@ -1,9 +1,9 @@
 # mcquillen ┊ interactive
 
-McQuillen Interactive is an independent software studio run by
+McQuillen Interactive (MI) is an independent software studio run by
 [Daniel McQuillen](https://github.com/danielmcquillen), building web and
-desktop applications with an emphasis on simple, clean user interfaces —
-with a focus on projects in building science and e-learning.
+desktop applications with an emphasis on simple, clean user interfaces.
+MI has a special focus on projects in building science and e-learning.
 
 More at [mcquilleninteractive.com](https://www.mcquilleninteractive.com).
 
