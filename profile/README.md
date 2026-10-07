@@ -15,7 +15,7 @@ products and projects:
 - **[Validibot](https://validibot.com)** — gives organizations a collaborative
   way to create and monitor automated validation workflows for their users.
   Public Validibot repositories are moving to this organization.
-- **[SimpleDiagrams Skills]** - some random skills for use with SimpleDiagrams, your favourite MacOS desktop diagramming tool.
+- **SimpleDiagrams Skills** - some random skills for use with SimpleDiagrams, your favourite MacOS desktop diagramming tool.
 - **PureLMS** — a learning management system, coming to this organization
   later.
 
